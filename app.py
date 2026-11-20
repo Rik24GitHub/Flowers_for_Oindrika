@@ -13,7 +13,7 @@ import streamlit.components.v1 as components
 HER_NAME = "Oindrika"
 FULL_NAME = "Oindrika Roy"
 HIS_NAME = "Rik"
-START_DATE = date(2024, 1, 1)  # <- change to the day your story began
+START_DATE = date(2026, 3, 5)  # <- change to the day your story began
 
 MEM_DIR = Path("memories")
 MEM_INDEX = MEM_DIR / "index.json"
